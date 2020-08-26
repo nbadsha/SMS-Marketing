@@ -1,0 +1,33 @@
+RAW Requirements:
+------------------
+      1) Login.
+      2) Logout.
+      3) Import contact list into parent list from CSV file.
+      4) Create child contact list.
+      5) Create Message Template.
+      6) SMS campaigning with scheduling.
+      7) SMS Record Management.
+
+
+Functionalities:
+-----------------
+      1) Login
+              a) Every page should be authenticated before loading. If failed to logging redirect to Login Page with ERROR message.
+
+      2) Logout
+              a) User will be able to logout from system.
+
+      3) Import Contact from CSV
+              b) User can choose an CSV file where the contact does exist (format: name,mobile)
+
+
+
+
+
+
+
+Server DB Details:
+--------------------
+      1) DB Server  :
+      2) DB name    : smsapp
+      3) DB Password: w2>E^-h]tBvkjW%3      4) DB dumped at Assets/DataBases
